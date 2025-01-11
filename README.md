@@ -6,6 +6,7 @@ My name is Michele and I am a data science student currently enrolled at Univers
   
 - 💻 I share university and personal projects exploring data analysis and its real-world applications.
     - [PlotTwisters Project](https://github.com/MicheleGiambelli/PlotTwisters-Project.git): Named Entity Recognition (NER)
+    - [Images Classification](https://github.com/MicheleGiambelli/Images-Classification.git): Images classification task using Convolutional Neural Network (CNN)
   
 - 📫 How to reach me:
 <p align="center">
