@@ -2,7 +2,7 @@
 
 My name is Michele and I am a data scientist currently enrolled at Università Cattolica in Milan. I have a strong interest about data science, machine learning, AI, and tech industry.
 
-- 🔭 I’m currently working on [UniMapper](https://www.unimapper.app/), an innovative platform designed to revolutionize the way students discover and navigate university programs.
+- ⚡I’m currently working on [UniMapper](https://www.unimapper.app/), an innovative platform designed to revolutionize the way students discover and navigate university programs.
   
 - 💻 I share university and personal projects exploring data analysis and its real-world applications.
     - [PlotTwisters Project](https://github.com/MicheleGiambelli/PlotTwisters-Project.git): Named Entity Recognition (NER)
