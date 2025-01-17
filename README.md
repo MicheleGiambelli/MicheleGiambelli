@@ -8,6 +8,7 @@ My name is Michele and I am a data science student currently enrolled at Univers
     - [PlotTwisters Project](https://github.com/MicheleGiambelli/PlotTwisters-Project.git): Named Entity Recognition (NER)
     - [Images Classification](https://github.com/MicheleGiambelli/Images-Classification.git): Images classification task using Convolutional Neural Network (CNN)
     - [Solana project](https://github.com/MicheleGiambelli/Solana-price.git): Solana price prediction using Long-Short Term Memory (LSTM) network.
+    - [GoogLeNet project](https://github.com/MicheleGiambelli/GoogLeNet): Image Classification task implementing the state-of-art GoogLeNet architecture.
   
 - 📫 How to reach me:
 <p align="center">
