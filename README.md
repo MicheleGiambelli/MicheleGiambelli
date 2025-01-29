@@ -16,6 +16,14 @@ My name is Michele and I am a data science student currently enrolled at Univers
 <a target="_blank" href="mailto:michele.giambelli01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>   
 
+---
+<p align="center">
+   <i>"All models are wrong, but some are useful"</i>
+   <br>
+   <i>George E. P. Box</i>
+   <br>
+<br> 
+
 <!--
 **MicheleGiambelli/MicheleGiambelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
